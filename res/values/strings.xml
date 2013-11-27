@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Chepsol Tea Growers</string>
+    <string name="info">Ensure that you have paired this device\n with the printer</string>
+    <string name="info2">\nPress menu to select on transactions</string>
+    <string name="app_name">SaccoSoft</string>
+    <string name="hello_world">Chepsol Tea</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_connect_test">ConnectTest</string>
+    <string name="title_activity_bluetooth_print">BluetoothPrint</string>
+    <string name="title_activity_device_list">DeviceListActivity</string>
+    <string name="title_activity_main">Main</string>
+    <string name="loginstring">AdepositBtnlready has account! Login here</string>
+    <string name="title_activity_android_wsclient">AndroidWSClient</string>
+    <string name="title_activity_send_values">SendValuesActivity</string>
+    <string name="title_activity_soapdemo">SOAPDemoActivity</string>
+    <string name="title_activity_webservice">WebserviceActivity</string>
+    <string name="title_activity_deposit">Deposit</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_admin_log">AdminLog</string>
+    <string name="deposit">Deposit</string>
+    <string name="depositMsg">You are making deposits</string>
+    <string name="withdrawMsg">You are making withdrawals</string>
+    <string name="balanceMsg">Balance inquery</string>
+    <string name="miniMsg">Ministatement inquery</string>
+    <string name="amount">Amount</string>
+    <string name="national_id">ID</string>
+    <string name="account">Account</string>
+    <string name="logo">Chepsol Sacco</string>
+    <string name="DepostMethod">deposit</string>
+    <string name="title_activity_bluetooth_service">BluetoothService</string>
+    <string name="title_activity_more">More</string>
+
+</resources>
